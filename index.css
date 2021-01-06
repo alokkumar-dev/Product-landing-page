@@ -36,17 +36,15 @@ body{
 .branding h1{
     margin-left: 13px;
 }
-ul{
+#nav-bar ul{
     background-color: rgb(247, 108, 247);
-    display: flex;
-   position: absolute;
-   right: 0;
+    overflow: auto;
 }
-ul li{
+#nav-bar li{
     background-color: rgb(64, 46, 226);
     list-style: none;
-    padding: 10px 15px;
-    margin-left: 6px;
+    float: right;
+
 }
 ul li a{
     text-decoration: none;
@@ -54,11 +52,11 @@ ul li a{
 }
 
 /* footer start here */
-
+/* 
 #footer{
     background-color: rgb(92, 45, 53);
     width: 100%;
     height: 50px;
     position:fixed;
     bottom: 0;
-}
+} */
