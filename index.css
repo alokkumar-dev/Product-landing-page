@@ -41,7 +41,7 @@ body{
     overflow: auto;
 }
 #nav-bar li{
-    background-color: rgb(64, 46, 226);
+    background-color: rgb(101, 95, 158);
     list-style: none;
     float: right;
 
@@ -50,13 +50,3 @@ ul li a{
     text-decoration: none;
     
 }
-
-/* footer start here */
-/* 
-#footer{
-    background-color: rgb(92, 45, 53);
-    width: 100%;
-    height: 50px;
-    position:fixed;
-    bottom: 0;
-} */
