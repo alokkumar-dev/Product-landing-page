@@ -11,7 +11,7 @@ body{
 /* header starts here */
 
 #header{
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     width: 90%;
     height: 50px;
 }
@@ -37,7 +37,7 @@ body{
     margin-left: 13px;
 }
 #nav-bar ul{
-    background-color: rgb(247, 108, 247);
+    background-color: rgba(214, 104, 214, 0.966);
     overflow: auto;
 }
 #nav-bar li{
